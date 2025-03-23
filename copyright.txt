@@ -1,1 +1,0 @@
-© {{YEAR}} [YourCompanyName]. All Rights Reserved. {{DATE}}
