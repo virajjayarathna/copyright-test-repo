@@ -1,1 +1,3 @@
-© {{YEAR}} viraj-m-jay. All Rights Reserved.\nCreated date : {{DATE}}\nCreated by : {{user who created the file}}
+© {{YEAR}} viraj-m-jay. All Rights Reserved.
+Created date : {{DATE}}
+Created by : {{user who created the file}}
